@@ -16,8 +16,9 @@ $ `python manage.py runserver`
 ![2](https://user-images.githubusercontent.com/96381612/206854746-3545aaa1-6037-4dd2-a9c4-1ef97a7ea1ce.png)
 ----------------------------------------------------------------------------------------------------------
 
+![3](https://user-images.githubusercontent.com/96381612/206854820-21226c0e-fb05-46f1-b8bd-de7dd45897ac.png)
 
-![3](https://user-images.githubusercontent.com/96381612/206854750-76281b0b-323d-471c-a3d8-e828ce13b324.png
+
 ----------------------------------------------------------------------------------------------------------
 
 
