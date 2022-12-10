@@ -7,4 +7,4 @@ Front-end for an email client that makes API calls to send and receive emails.
 
 $ `pip install django`
 
-$ python manage.py runserver
+$ `python manage.py runserver`
